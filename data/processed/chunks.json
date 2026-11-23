@@ -1,0 +1,435 @@
+[
+  {
+    "id": "L1",
+    "domain": "labour",
+    "title": "Minimum wages apply to all workers",
+    "text": "Under the Code on Wages, 2019, the minimum wage notified by the government must be paid to employees. The Code applies to workers in both organised and unorganised sectors, so an employer cannot legally pay you less than the minimum wage for your work and area.",
+    "next": "Note your wage, hours and employer name. Contact the district labour office, or ask Tele-Law (14454) for free advice.",
+    "index_text": "Minimum wages apply to all workers minimum wage salary pay less than minimum informal unorganised daily wage worker labourer paid too little Under the Code on Wages, 2019, the minimum wage notified by the government must be paid to employees. The Code applies to workers in both organised and unorganised sectors, so an employer cannot legally pay you less than the minimum wage for your work and area.",
+    "source": "Code on Wages, 2019",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Code on Wages, s. 5",
+        "text": "5. No employer shall pay to any employee wages less than the minimum rate of wages\nnotified by the appropriate Government.",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against Code on Wages s.5.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L2",
+    "domain": "labour",
+    "title": "Wages must be paid on time",
+    "text": "Under the Code on Wages, 2019, monthly wages must be paid before the end of the 7th day of the next month. If your employer keeps delaying or withholding wages, that is a violation and you can claim the unpaid amount.",
+    "next": "Keep proof of work (messages, attendance, bank entries). Complain to the labour office of your district, or call Tele-Law (14454) for free guidance.",
+    "index_text": "Wages must be paid on time employer not paid my salary wages delayed withheld two months unpaid wages not given owner refuses to pay salary contractor did not pay payment pending Under the Code on Wages, 2019, monthly wages must be paid before the end of the 7th day of the next month. If your employer keeps delaying or withholding wages, that is a violation and you can claim the unpaid amount.",
+    "source": "Code on Wages, 2019",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Code on Wages, s. 17(1)",
+        "text": "(1) The employer shall pay or cause to be paid wages to the employees, engaged\non—\n(i) daily basis, at the end of the shift;\n(ii) weekly basis, on the last working day of the week, that is to say, before the\nweekly holiday;\n(iii) fortnightly basis, before the end of the second day after the end of the\nfortnight;\n(iv) monthly basis, before the expiry of the seventh day of the succeeding\nmonth.",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against Code on Wages s.17(1)(iv).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L3",
+    "domain": "labour",
+    "title": "Working hours and overtime",
+    "text": "Under the Occupational Safety, Health and Working Conditions Code, 2020, a worker cannot be made to work more than eight hours in a day or more than six days in a week. Overtime must be paid at twice the normal rate of wages (also in the Code on Wages, 2019).",
+    "next": "Write down your daily hours. If overtime is unpaid, raise it with your employer in writing and then with the labour office.",
+    "index_text": "Working hours and overtime working hours overtime extra hours made to work 12 hours day duty long shift overtime pay double overtime 12 duty Under the Occupational Safety, Health and Working Conditions Code, 2020, a worker cannot be made to work more than eight hours in a day or more than six days in a week. Overtime must be paid at twice the normal rate of wages (also in the Code on Wages, 2019).",
+    "source": "OSH Code, 2020; Code on Wages, 2019",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Occupational%20Safety,%20Health%20And%20Working%20Conditions%20Code,%202020.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "OSH Code, s. 25(1)",
+        "text": "(1) No worker shall be required or allowed to work, in any establishment or class\nof establishment for more than—\n(a) eight hours in a day; and\n(b) the period of work in each day under clause ( a) shall be so fixed, as not to\nexceed such hours, with such intervals and spread overs , as may be notified by the\nappropriate Government:\nProvided that subject to clause ( a) in the case of mines,—\n(i) the persons employed below ground in a mine shall not be allowed to work\nfor more than such hours as may be notified by the Central Government in any day;\n(ii) no work shall be carried on below ground in any mine except by a system of\nshifts so arranged that the period of work for each shift is not spread over more than\nthe daily maximum hours as notified under clause (i);\n(iii) no person employed in a mine shall be allowed to be present in any part of\na mine below ground except during the periods of work shown in respect of him in the\nregister maintained under clause (a) of section 33:\nProvided further that subject to clause ( a) that the hours of work in case of motor\ntransport worker shall include—\n(i) the time spent in work done during the running time of the transport vehicle;\n(ii) the time spent in subsidiary work; and\n(iii) period of mere attendance at terminals of less than fifteen minutes.\nExplanation.—For the purposes of this sub-section—\n(a) \"running time\" in relation to a working day means the time from the moment\na transport vehicle starts functioning at the beginning of ...",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Occupational%20Safety,%20Health%20And%20Working%20Conditions%20Code,%202020.pdf"
+      },
+      {
+        "cite": "OSH Code, s. 26(1)",
+        "text": "(1) No worker shall be allowed to work in an establishment for more than six days\nin any one week:\nProvided that in any motor transport undertaking, an employer may, in order to prevent\nany dislocation of a motor transport service, require a worker to work on any day of weekly\nholiday which is not a holiday so arranged that the worker does not work for more than ten\ndays consecutively without a holiday for a whole day intervening.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Occupational%20Safety,%20Health%20And%20Working%20Conditions%20Code,%202020.pdf"
+      },
+      {
+        "cite": "OSH Code, s. 27",
+        "text": "27. There shall be paid wages at the rate of twice the rate of wages in respect of\novertime work, where a worker works in an establishment or class of establishment for more\nthan such hours of work in any day or in any week as may be prescribed by the appropriate\nGovernment and the period of overtime work shall be calculated on a daily basis or weekly\nbasis, whichever is more favourable to such worker:\nProvided that a worker shall be required to work overtime by the employer subject to\nthe consent of such worker for such work:\nProvided further that the appropriate Government may prescribe the total number of\nhours of overtime.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Occupational%20Safety,%20Health%20And%20Working%20Conditions%20Code,%202020.pdf"
+      },
+      {
+        "cite": "Code on Wages, s. 14",
+        "text": "14. Where an employee whose minimum rate of wages has been fixed under this Code\nby the hour, by the day or by such a longer wage-period as may be prescribed, works on any\nday in excess of the number of hours constituting a normal working day, the employer shall\npay him for every hour or for part of an hour so worked in excess, at the overtime rate which\nshall not be less than twice the normal rate of wages.\nCHAPTER III\nPAYMENT OF W AGES",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Corrected 15 Oct 2026: OSH Code s.25 limits work to 8 hours a day and s.26 to 6 days a week; the earlier '48 hours a week' was not in the Act text.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L4",
+    "domain": "labour",
+    "title": "Equal pay for equal work",
+    "text": "The Code on Wages, 2019 does not allow gender-based discrimination in wages. Women and men doing the same work should not be paid differently because of gender.",
+    "next": "Compare and note pay for the same work, then complain to the labour office.",
+    "index_text": "Equal pay for equal work women paid less than men same work equal pay gender discrimination salary difference same same pay woman female lower pay gender The Code on Wages, 2019 does not allow gender-based discrimination in wages. Women and men doing the same work should not be paid differently because of gender.",
+    "source": "Code on Wages, 2019",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Code on Wages, s. 3(1)",
+        "text": "(1) There shall be no discrimination in an establishment or any unit thereof among\nemployees on the ground of gender in matters relating to wages by the same employer, in\nrespect of the same work or work of a similar nature done by any employee.",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against Code on Wages s.3(1).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L5",
+    "domain": "labour",
+    "title": "Social security for unorganised and gig workers",
+    "text": "The Code on Social Security, 2020 asks the Central Government to make social security schemes for unorganised workers, and lets it make schemes for gig and platform workers, covering things like life and disability cover, accident insurance, health and maternity benefits and old age protection. Which scheme you get depends on what the government has notified.",
+    "next": "Ask your employer or platform which schemes apply to you, and check with the labour department for registration.",
+    "index_text": "Social security for unorganised and gig workers gig worker delivery driver platform worker provident fund insurance social security benefits informal worker pension The Code on Social Security, 2020 asks the Central Government to make social security schemes for unorganised workers, and lets it make schemes for gig and platform workers, covering things like life and disability cover, accident insurance, health and maternity benefits and old age protection. Which scheme you get depends on what the government has notified.",
+    "source": "Code on Social Security, 2020",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Code%20On%20Social%20Security,%202020.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Social Security Code, s. 109(1)",
+        "text": "(1) The Central Government shall frame and notify, from time to time, suitable\nwelfare schemes for unorganised workers on matters relating to—\n(i) life and disability cover;\n(ii) health and maternity benefits;\n(iii) old age protection;\n(iv) education; and\n(v) any other benefit as may be determined by the Central Government.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Code%20On%20Social%20Security,%202020.pdf"
+      },
+      {
+        "cite": "Social Security Code, s. 114(1)",
+        "text": "(1) The Central Government may frame and notify, from time to time, suitable\nsocial security schemes for gig workers and platform workers on matters relating to—\n(a) life and disability cover;\n(b) accident insurance;\n(c) health and maternity benefits;\n(d) old age protection;\n(e) crèche; and\n(f) any other benefit as may be determined by the Central Government.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Code%20On%20Social%20Security,%202020.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Corrected 15 Oct 2026: the Code lets the government make schemes (s.109, s.114); it does not itself give benefits.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "T1",
+    "domain": "tenancy",
+    "title": "Eviction needs proper process",
+    "text": "A landlord cannot simply throw a tenant out. Under the Model Tenancy Act, 2021, eviction goes through a Rent Authority (appeal to the Rent Court), for reasons such as not paying rent for two months in a row or misusing the property after a written notice. The Model Act applies only where your State has adopted it; otherwise your State's rent law applies.",
+    "next": "Ask for the notice in writing, keep your rent receipts, and do not sign anything you do not understand. Contact your District Legal Services Authority (15100) for free advice.",
+    "index_text": "Eviction needs proper process landlord evict me throw out of house without notice asked to vacate immediately eviction tenant lock A landlord cannot simply throw a tenant out. Under the Model Tenancy Act, 2021, eviction goes through a Rent Authority (appeal to the Rent Court), for reasons such as not paying rent for two months in a row or misusing the property after a written notice. The Model Act applies only where your State has adopted it; otherwise your State's rent law applies.",
+    "source": "Model Tenancy Act, 2021 (model law); State rent laws",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "version": "checked 13 Oct 2026",
+    "law": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T2",
+    "domain": "tenancy",
+    "title": "Security deposit",
+    "text": "Under the Model Tenancy Act, 2021, a security deposit is capped at two months' rent for a home (six months for non-residential premises). A landlord should return it when you vacate after deducting only genuine dues. This applies where your State has adopted the Act; otherwise your State's rent law applies.",
+    "next": "Take photos when you leave, ask for a written account of deductions, and send a written demand. If still refused, seek legal aid (15100).",
+    "index_text": "Security deposit landlord not returning security deposit refund deposit deducted advance money rent deposit cut Under the Model Tenancy Act, 2021, a security deposit is capped at two months' rent for a home (six months for non-residential premises). A landlord should return it when you vacate after deducting only genuine dues. This applies where your State has adopted the Act; otherwise your State's rent law applies.",
+    "source": "Model Tenancy Act, 2021 (model law)",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "version": "checked 13 Oct 2026",
+    "law": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T3",
+    "domain": "tenancy",
+    "title": "Rent increase",
+    "text": "Rent can be revised only as agreed in your rent agreement or as allowed by your State's rent law. Under the Model Tenancy Act, 2021, disputes about revising rent go to the Rent Authority, so a landlord cannot simply raise it at will.",
+    "next": "Check your rent agreement for the increase clause and ask for the increase in writing.",
+    "index_text": "Rent increase landlord increasing rent suddenly rent hike raise rent without notice rent increase tenant rent Rent can be revised only as agreed in your rent agreement or as allowed by your State's rent law. Under the Model Tenancy Act, 2021, disputes about revising rent go to the Rent Authority, so a landlord cannot simply raise it at will.",
+    "source": "Model Tenancy Act, 2021 (model law); State rent laws",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "version": "checked 13 Oct 2026",
+    "law": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T4",
+    "domain": "tenancy",
+    "title": "Water and electricity cut-off",
+    "text": "Under the Model Tenancy Act, 2021, a landlord cannot withhold essential services such as water and electricity. Cutting them off to force you out is not allowed.",
+    "next": "Record the date and take a photo or message as proof, complain to the local rent authority or police if needed, and seek legal aid (15100).",
+    "index_text": "Water and electricity cut-off landlord cut electricity water supply stopped power cut off to force me to leave lock the room light Under the Model Tenancy Act, 2021, a landlord cannot withhold essential services such as water and electricity. Cutting them off to force you out is not allowed.",
+    "source": "Model Tenancy Act, 2021 (model law)",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "version": "checked 13 Oct 2026",
+    "law": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T5",
+    "domain": "tenancy",
+    "title": "Written rent agreement",
+    "text": "The Model Tenancy Act, 2021 requires a written agreement signed by both sides, stating the rent, the tenancy period and other terms. Even without one, rent receipts or bank transfers can help prove that you are a tenant.",
+    "next": "Ask for a written agreement and always take rent receipts or pay by bank transfer.",
+    "index_text": "Written rent agreement no rent agreement verbal agreement tenancy agreement written proof receipts rent receipt tenant rights agreement rent paper The Model Tenancy Act, 2021 requires a written agreement signed by both sides, stating the rent, the tenancy period and other terms. Even without one, rent receipts or bank transfers can help prove that you are a tenant.",
+    "source": "Model Tenancy Act, 2021 (model law)",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "version": "checked 13 Oct 2026",
+    "law": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "C1",
+    "domain": "consumer",
+    "title": "Defective product refund or replacement",
+    "text": "Under the Consumer Protection Act, 2019 you have the right to complain about defective goods and can seek a repair, replacement, refund and compensation.",
+    "next": "Keep the bill and photos. Send a written complaint to the seller, then call the National Consumer Helpline (1915) or file with the District Consumer Commission.",
+    "index_text": "Defective product refund or replacement bought defective product broken item shop refuses refund replacement faulty goods sold bad quality seller cheated broken damaged online order refund replacement Under the Consumer Protection Act, 2019 you have the right to complain about defective goods and can seek a repair, replacement, refund and compensation.",
+    "source": "Consumer Protection Act, 2019",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Consumer Protection Act, s. 2(6)",
+        "text": "(6) \"complaint\" means any allegation in writing, made by a complainant for\nobtaining any relief provided by or under this Act, that—\n(i) an unfair contract or unfair trade practice or a restrictive trade practice\nhas been adopted by any trader or service provider;\n(ii) the goods bought by him or agreed to be bought by him suffer from\none or more defects;\n(iii) the services hired or availed of or agreed to be hired or availed of by\nhim suffer from any deficiency;\n(iv) a trader or a service provider, as the case may be, has charged for the\ngoods or for the services mentioned in the complaint, a price in excess of the\nprice—\n(a) fixed by or under any law for the time being in force; or\nDefinitions.\n(b) displayed on the goods or any package containing such goods; or\n(c) displayed on the price list exhibited by him by or under any law\nfor the time being in force; or\n(d) agreed between the parties;\n(v) the goods, which are hazardous to life and safety when used, are being\noffered for sale to the public—\n(a) in contravention of standards relating to safety of such goods\nas required to be complied with, by or under any law for the time being in\nforce;\n(b) where the trader knows that the goods so offered are unsafe to\nthe public;\n(vi) the services which are hazardous or likely to be hazardous to life and\nsafety of the public when used, are being offered by a person who provides any\nservice and who knows it to be injurious to life and safety;\n(vii) a claim for product liability action ...",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 2(10)",
+        "text": "(10) \"defect\" means any fault, imperfection or shortcoming in the quality,\nquantity, potency, purity or standard which is required to be maintained by or under\nany law for the time being in force or under any contract, express or implied or as is\nclaimed by the trader in any manner whatsoever in relation to any goods or product\nand the expression \"defective\" shall be construed accordingly;",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 39(1)",
+        "text": "(1) Where the District Commission is satisfied that the goods complained against\nsuffer from any of the defects specified in the complaint or that any of the allegations\ncontained in the complaint about the services or any unfair trade practices, or claims for\ncompensation under product liability are proved, it shall issue an order to the opposite party\ndirecting him to do one or more of the following, namely:—\n(a) to remove the defect pointed out by the appropriate laboratory from the\ngoods in question;\n(b) to replace the goods with new goods of similar description which shall be\nfree from any defect;\n(c) to return to the complainant the price, or, as the case may be, the charges paid\nby the complainant along with such interest on such price or charges as may be\ndecided;\n(d) to pay such amount as may be awarded by it as compensation to the consumer\nfor any loss or injury suffered by the consumer due to the negligence of the opposite\nparty:\nProvided that the District Commission shall have the power to grant punitive\ndamages in such circumstances as it deems fit;\n(e) to pay such amount as may be awarded by it as compensation in a product\nliability action under Chapter VI;\n(f) to remove the defects in goods or deficiencies in the services in question;\n(g) to discontinue the unfair trade practice or restrictive trade practice and not to\nrepeat them;\n(h) not to offer the hazardous or unsafe goods for sale;\n(i) to withdraw the hazardous goods from being offered for sale;\n(j) to ...",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against CPA s.2(6)(ii), 2(10), 39(1)(a)-(d).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C2",
+    "domain": "consumer",
+    "title": "Poor service",
+    "text": "The Consumer Protection Act, 2019 covers deficient service as well as defective goods. If you paid for a service that was not delivered properly, you can complain.",
+    "next": "Keep proof of payment and your complaints. Use the National Consumer Helpline (1915) or file a complaint with the District Consumer Commission.",
+    "index_text": "Poor service poor service deficiency in service hospital bank phone company internet not working paid but service not given service The Consumer Protection Act, 2019 covers deficient service as well as defective goods. If you paid for a service that was not delivered properly, you can complain.",
+    "source": "Consumer Protection Act, 2019",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Consumer Protection Act, s. 2(11)",
+        "text": "(11) \"deficiency\" means any fault, imperfection, shortcoming or inadequacy in\nthe quality, nature and manner of performance which is required to be maintained by or\nunder any law for the time being in force or has been undertaken to be performed by a\nperson in pursuance of a contract or otherwise in relation to any service and includes—\n(i) any act of negligence or omission or commission by such person which\ncauses loss or injury to the consumer; and\n(ii) deliberate withholding of relevant information by such person to the\nconsumer;",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 2(6)",
+        "text": "(6) \"complaint\" means any allegation in writing, made by a complainant for\nobtaining any relief provided by or under this Act, that—\n(i) an unfair contract or unfair trade practice or a restrictive trade practice\nhas been adopted by any trader or service provider;\n(ii) the goods bought by him or agreed to be bought by him suffer from\none or more defects;\n(iii) the services hired or availed of or agreed to be hired or availed of by\nhim suffer from any deficiency;\n(iv) a trader or a service provider, as the case may be, has charged for the\ngoods or for the services mentioned in the complaint, a price in excess of the\nprice—\n(a) fixed by or under any law for the time being in force; or\nDefinitions.\n(b) displayed on the goods or any package containing such goods; or\n(c) displayed on the price list exhibited by him by or under any law\nfor the time being in force; or\n(d) agreed between the parties;\n(v) the goods, which are hazardous to life and safety when used, are being\noffered for sale to the public—\n(a) in contravention of standards relating to safety of such goods\nas required to be complied with, by or under any law for the time being in\nforce;\n(b) where the trader knows that the goods so offered are unsafe to\nthe public;\n(vi) the services which are hazardous or likely to be hazardous to life and\nsafety of the public when used, are being offered by a person who provides any\nservice and who knows it to be injurious to life and safety;\n(vii) a claim for product liability action ...",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against CPA s.2(11), 2(6)(iii).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C3",
+    "domain": "consumer",
+    "title": "Where and how to file a consumer complaint",
+    "text": "Under the Consumer Protection Act, 2019 you can file a complaint with the District Consumer Commission, and it can be filed electronically. You must usually file within two years from the date the problem arose. Smaller claims go to the District Commission; under the 2021 Rules it hears claims up to Rs 50 lakh, the State Commission Rs 50 lakh to Rs 2 crore, and the National Commission above Rs 2 crore. Online filing is through the e-Daakhil portal.",
+    "next": "Gather bills and messages, send a written complaint to the seller first, then file online or call 1915.",
+    "index_text": "Where and how to file a consumer complaint where to file consumer complaint court fee how to complain consumer forum commission online complaint cost lawyer needed Under the Consumer Protection Act, 2019 you can file a complaint with the District Consumer Commission, and it can be filed electronically. You must usually file within two years from the date the problem arose. Smaller claims go to the District Commission; under the 2021 Rules it hears claims up to Rs 50 lakh, the State Commission Rs 50 lakh to Rs 2 crore, and the National Commission above Rs 2 crore. Online filing is through the e-Daakhil portal.",
+    "source": "Consumer Protection Act, 2019; Consumer Protection Rules, 2021",
+    "url": "https://www.drishtiias.com/printpdf/consumer-protection-rules-2021",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Consumer Protection Act, s. 35(1)",
+        "text": "(1) A complaint, in relation to any goods sold or delivered or agreed to be sold or\ndelivered or any service provided or agreed to be provided, may be filed with a District\nCommission by—\n(a) the consumer,—\n(i) to whom such goods are sold or delivered or agreed to be sold or\ndelivered or such service is provided or agreed to be provided; or\n(ii) who alleges unfair trade practice in respect of such goods or service;\n(b) any recognised consumer association, whether the consumer to whom such\ngoods are sold or delivered or agreed to be sold or delivered or such service is provided\nor agreed to be provided, or who alleges unfair trade practice in respect of such goods\nor service, is a member of such association or not;\n(c) one or more consumers, where there are numerous consumers having the\nsame interest, with the permission of the District Commission, on behalf of, or for the\nbenefit of, all consumers so interested; or\n(d) the Central Government, the Central Authority or the State Government, as\nthe case may be:\nProvided that the complaint under this sub-section may be filed electronically in such\nmanner as may be prescribed.\nExplanation. —For the purposes of this sub-section, \"recognised consumer\nassociation\" means any voluntary consumer association registered under any law for the\ntime being in force.",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 34(1)",
+        "text": "(1) Subject to the other provisions of this Act, the District Commission shall have\njurisdiction to entertain complaints where the value of the goods or services paid as\nconsideration does not exceed one crore rupees:\nProvided that where the Central Government deems it necessary so to do, it may\nprescribe such other value, as it deems fit.",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 69(1)",
+        "text": "(1) The District Commission, the State Commission or the National Commission\nshall not admit a complaint unless it is filed within two years from the date on which the\ncause of action has arisen.",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      }
+    ],
+    "verified": "partial",
+    "verify_note": "Corrected 15 Oct 2026. Filing (s.35) and two-year limit (s.69) checked in the Act. The Rs 50 lakh limit is from the 2021 Rules (not in the Act, which says Rs 1 crore unless rules change it) and e-Daakhil is not in the Act; verify both against the Rules.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C4",
+    "domain": "consumer",
+    "title": "Misleading advertisement and overcharging",
+    "text": "Charging more than the printed maximum retail price (MRP) or using a misleading advertisement is treated as an unfair trade practice, and you can complain.",
+    "next": "Keep the bill and photo of the printed price. Report to the National Consumer Helpline (1915).",
+    "index_text": "Misleading advertisement and overcharging overcharged above MRP price misleading advertisement fake offer false claim shopkeeper charging more Charging more than the printed maximum retail price (MRP) or using a misleading advertisement is treated as an unfair trade practice, and you can complain.",
+    "source": "Consumer Protection Act, 2019",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Consumer Protection Act, s. 2(6)",
+        "text": "(6) \"complaint\" means any allegation in writing, made by a complainant for\nobtaining any relief provided by or under this Act, that—\n(i) an unfair contract or unfair trade practice or a restrictive trade practice\nhas been adopted by any trader or service provider;\n(ii) the goods bought by him or agreed to be bought by him suffer from\none or more defects;\n(iii) the services hired or availed of or agreed to be hired or availed of by\nhim suffer from any deficiency;\n(iv) a trader or a service provider, as the case may be, has charged for the\ngoods or for the services mentioned in the complaint, a price in excess of the\nprice—\n(a) fixed by or under any law for the time being in force; or\nDefinitions.\n(b) displayed on the goods or any package containing such goods; or\n(c) displayed on the price list exhibited by him by or under any law\nfor the time being in force; or\n(d) agreed between the parties;\n(v) the goods, which are hazardous to life and safety when used, are being\noffered for sale to the public—\n(a) in contravention of standards relating to safety of such goods\nas required to be complied with, by or under any law for the time being in\nforce;\n(b) where the trader knows that the goods so offered are unsafe to\nthe public;\n(vi) the services which are hazardous or likely to be hazardous to life and\nsafety of the public when used, are being offered by a person who provides any\nservice and who knows it to be injurious to life and safety;\n(vii) a claim for product liability action ...",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 2(28)",
+        "text": "(28) \"misleading advertisement\" in relation to any product or service, means an\nadvertisement, which—\n(i) falsely describes such product or service; or\n(ii) gives a false guarantee to, or is likely to mislead the consumers as to\nthe nature, substance, quantity or quality of such product or service; or\n(iii) conveys an express or implied representation which, if made by the\nmanufacturer or seller or service provider thereof, would constitute an unfair\ntrade practice; or\n(iv) deliberately conceals important information;",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      },
+      {
+        "cite": "Consumer Protection Act, s. 2(47)",
+        "text": "(47) \"unfair trade practice\" means a trade practice which, for the purpose of\npromoting the sale, use or supply of any goods or for the provision of any service,\nadopts any unfair method or unfair or deceptive practice including any of the following\npractices, namely:—\n(i) making any statement, whether orally or in writing or by visible\nrepresentation including by means of electronic record, which—\n(a) falsely represents that the goods are of a particular standard,\nquality, quantity, grade, composition, style or model;\n(b) falsely represents that the services are of a particular standard,\nquality or grade;\n(c) falsely represents any re-built, second-hand, renovated,\nreconditioned or old goods as new goods;\n(d) represents that the goods or services have sponsorship, approval,\nperformance, characteristics, accessories, uses or benefits which such\ngoods or services do not have;\n(e) represents that the seller or the supplier has a sponsorship or\napproval or affiliation which such seller or supplier does not have;\n(f) makes a false or misleading representation concerning the need\nfor, or the usefulness of, any goods or services;\n(g) gives to the public any warranty or guarantee of the performance,\nefficacy or length of life of a product or of any goods that is not based on\nan adequate or proper test thereof:\nProvided that where a defence is raised to the effect that such\nwarranty or guarantee is based on adequate or proper test, the burden of\nproof of such defence shall lie on ...",
+        "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against CPA s.2(6)(iv) (price above the displayed price), 2(28), 2(47).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "D1",
+    "domain": "domestic",
+    "title": "Protection from domestic violence",
+    "text": "The Protection of Women from Domestic Violence Act, 2005 protects women from domestic violence. The woman, a Protection Officer or anyone on her behalf can apply to the Magistrate (Section 12), and the Magistrate can pass protection orders (Section 18).",
+    "next": "If you are in danger, call 112 or the women helpline 181. You can also approach a Protection Officer or the magistrate, and get free legal aid (15100).",
+    "index_text": "Protection from domestic violence husband beats me domestic violence abuse at home in laws harassment hit threatened afraid at home violence The Protection of Women from Domestic Violence Act, 2005 protects women from domestic violence. The woman, a Protection Officer or anyone on her behalf can apply to the Magistrate (Section 12), and the Magistrate can pass protection orders (Section 18).",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "DV Act, s. 12(1)",
+        "text": "-(1) An aggrieved person or a Protection\nOfficer or any other person on behalf of the aggrieved person may\npresent an application to the Magistrate seeking one or more reliefs\nunder this Act:\nProvided that before passing any order on such application, the\nMagistrate shall take into consideration any domestic incident report\nreceived by him from the Protection Officer or the service provider.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf"
+      },
+      {
+        "cite": "DV Act, s. 18",
+        "text": "18. Protection orders.-The Magistrate may, after giving the aggrieved\nperson and the respondent an opportunity of being heard and on being\nprima facie satisfied that domestic violence has taken place or is\nlikely to take place, pass a protection order in favour of the\naggrieved person and prohibit the respondent from-\n(a) committing any act of domestic violence;\n(b) aiding or abetting in the commission of acts of domestic violence;\n(c) entering the place of employment of the aggrieved person or, if the\nperson aggrieved is a child, its school or any other place frequented\nby the aggrieved person;\n(d) attempting to communicate in any form, whatsoever, with the\naggrieved person, including personal, oral or written or electronic or\ntelephonic contact;\n(e) alienating any assets, operating bank lockers or bank accounts used\nor held or enjoyed by both the parties, jointly by the aggrieved person\nand the respondent or singly by the respondent, including her stridhan\nor any other property held either jointly by the parties or separately\nby them without the leave of the Magistrate;\n(f) causing violence to the dependants, other relatives or any person\nwho give the aggrieved person assistance from domestic violence;\n(g) committing any other act as specified in the protection order.\n\n19.\n\nResidence orders.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against DV Act s.12(1), 18.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "D2",
+    "domain": "domestic",
+    "title": "Right to stay in the shared home",
+    "text": "Under Section 17 of the Domestic Violence Act, 2005, every woman in a domestic relationship has the right to reside in the shared household, even if she does not own it. The Magistrate can also pass a residence order (Section 19).",
+    "next": "Contact the women helpline 181 or a Protection Officer, and seek a residence order through the magistrate with free legal aid (15100).",
+    "index_text": "Right to stay in the shared home thrown out of house by husband in laws right to stay residence shared household married woman home asked to leave Under Section 17 of the Domestic Violence Act, 2005, every woman in a domestic relationship has the right to reside in the shared household, even if she does not own it. The Magistrate can also pass a residence order (Section 19).",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "DV Act, s. 17(1)",
+        "text": "-(1) Notwithstanding anything\ncontained in any other law for the time being in force, every woman in\na domestic relationship shall have the right to reside in the shared\nhousehold, whether or not she has any right, title or beneficial\ninterest in the same.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf"
+      },
+      {
+        "cite": "DV Act, s. 19(1)",
+        "text": "-(1) While disposing of an application under sub-\nsection (1) of section 12, the Magistrate may, on being satisfied that\ndomestic violence has taken place, pass a residence order -\n(a) restraining the respondent from dispossessing or in any other\nmanner disturbing the possession of the aggrieved person from the\nshared household, whether or not the respondent has a legal or\nequitable interest in the shared household;\n(b) directing the respondent to remove himself from the shared\nhousehold;\n(c) restraining the respondent or any of his relatives from entering\nany portion of the shared household in which the aggrieved person\nresides;\n(d) restraining the respondent from alienating or disposing off the\nshared household or encumbering the same;\n(e) restraining the respondent from renouncing his rights in the shared\nhousehold except with the leave of the Magistrate; or\n(f) directing the respondent to secure same level of alternate\naccommodation for the aggrieved person as enjoyed by her in the shared\nhousehold or to pay rent for the same, if the circumstances so require:\nProvided that no order under clause (b) shall be passed against any\nperson who is a woman.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against DV Act s.17(1), 19(1).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "D3",
+    "domain": "domestic",
+    "title": "Financial support",
+    "text": "Under Section 20 of the Domestic Violence Act, 2005, the Magistrate can direct the abuser to pay monetary relief to cover the expenses and losses suffered by the woman.",
+    "next": "Keep a record of expenses. Approach a Protection Officer or seek free legal aid (15100) to apply for monetary relief.",
+    "index_text": "Financial support husband not giving money maintenance expenses financial support economic abuse no money for children food maintenance Under Section 20 of the Domestic Violence Act, 2005, the Magistrate can direct the abuser to pay monetary relief to cover the expenses and losses suffered by the woman.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "DV Act, s. 20(1)",
+        "text": "-(1) While disposing of an application under sub-\nsection (1) of section 12, the Magistrate may direct the respondent to\npay monetary relief to meet the expenses incurred and losses suffered\nby the aggrieved person and any child of the aggrieved person as a\nresult of the domestic violence and such relief may include, but not\nlimited to,-\n(a) the loss of earnings;\n(b) the medical expenses;\n(c) the loss caused due to the destruction, damage or removal of any\nproperty from the control of the aggrieved person; and\n(d) the maintenance for the aggrieved person as well as her children,\nif any, including an order under or in addition to an order of\nmaintenance under section 125 of the Code of Criminal Procedure, 1973\n(2 of 1974) or any other law for the time being in force.",
+        "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against DV Act s.20(1).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "G1",
+    "domain": "legal_aid",
+    "title": "Free legal advice and legal aid",
+    "text": "Tele-Law gives free pre-litigation legal advice to all citizens through a Common Service Centre, the Tele-Law app, or the helpline 14454. Each case gets about a 20-minute appointment with a panel lawyer and up to 3 consultations. Court costs are not automatically free. For a free lawyer, people in the categories listed under Section 12 of the Legal Services Authorities Act (for example women, children, SC/ST and low-income people) can contact the Legal Services Authority (NALSA helpline 15100) and must show proof of their category.",
+    "next": "Call 14454 or visit your nearest Common Service Centre for advice, or call 15100 for a free lawyer.",
+    "index_text": "Free legal advice and legal aid free lawyer cannot afford lawyer free legal advice legal aid where to get help who can help me poor free legal help free lawyer ke Tele-Law gives free pre-litigation legal advice to all citizens through a Common Service Centre, the Tele-Law app, or the helpline 14454. Each case gets about a 20-minute appointment with a panel lawyer and up to 3 consultations. Court costs are not automatically free. For a free lawyer, people in the categories listed under Section 12 of the Legal Services Authorities Act (for example women, children, SC/ST and low-income people) can contact the Legal Services Authority (NALSA helpline 15100) and must show proof of their category.",
+    "source": "Tele-Law FAQ; NALSA; Legal Services Authorities Act, 1987",
+    "url": "https://www.tele-law.in/faq.html",
+    "version": "checked against Act text 15 Oct 2026",
+    "law": [
+      {
+        "cite": "Legal Services Authorities Act, s. 12",
+        "text": "12. Criteria for giving legal Services\nEvery person who has to file or defend a case shall be entitled to legal services\nunder this Act if that person is\n(a) A member of a Scheduled Caste or Scheduled Tribe;\n(b) A victim of trafficking in human being or begar as referred to in article 23 of the\nConstitution;\n(c) A woman or a child;\n(d) A person with disability as defined in clause (i) of section 2 of the Persons With\nDisabilities (Equal Opportunities, Protection of Rights and Full Participati on) Act,\n1995.\n(e) A person under circumstances of undeserved want such as being a victim of a\nmass disaster, ethnic violence, caste atrocity, flood, drought, earthquake or\nindustrial disaster; or\n(f) An industrial workman; or\n(g) In custody, including custody in a protective home within the meaning of clauses\n(g) of section 2 of the Immoral Traffic (Prevention) Act, .1956, or in a juvenile\nhome within the meaning of clause G) of section 2 of the Juvenile Justice Act,\n1986, or in a psychiatric hospital or psychiatric nursing home within the meaning\nof clause (g) of section 2 of the Mental Health Act, 1987; or\n(h) In receipt of annual income less than rupees nine thousand or such other higher\namount as may be prescribed by the State Government, if the case is before a\ncourt other than the Supreme Court, and less than rupees twelve thousand or\nsuch other higher amount as may be prescribed by the Central Government, if\nthe case is before the Supreme Court.",
+        "url": "https://aslsa.assam.gov.in/sites/default/files/swf_utility_folder/departments/aslsa_medhassu_in_oid_4/menu/document/The%20Legal%20Services%20Authorities%20Act,%201987.pdf"
+      },
+      {
+        "cite": "Legal Services Authorities Act, s. 13",
+        "text": "13. Entitlement to legal services\n\n(1) Persons who satisfy all or any of the criteria specified in section 12 shall be\nentitled to receive legal Services provided that the concerned Authority is satisfied that\nsuch person has a prima facie case to prosecute or to defend.\n(2) An affidavit made by a person as to his income may be regarded as sufficient for\nmaking him eligible to the entitlement of legal services under this Act unless the\nconcerned Authority has reason to disbelieve such affidavit.\n\nCHAPTER V\nFINANCE, ACCOUNTS AND AUDIT",
+        "url": "https://aslsa.assam.gov.in/sites/default/files/swf_utility_folder/departments/aslsa_medhassu_in_oid_4/menu/document/The%20Legal%20Services%20Authorities%20Act,%201987.pdf"
+      }
+    ],
+    "verified": "partial",
+    "verify_note": "Section 12 categories checked in the Act. Tele-Law details come from the tele-law.in FAQ, not an Act.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C5",
+    "domain": "consumer",
+    "title": "National Consumer Helpline",
+    "text": "You can raise a consumer complaint quickly with the National Consumer Helpline: call the toll-free number 1915 (8 AM to 8 PM), send a WhatsApp message to +91 88000 01915, or use the NCH app, the UMANG app or the website.",
+    "next": "Keep your bill, order number and messages ready before you call.",
+    "index_text": "National Consumer Helpline consumer helpline number call complain quickly whatsapp toll free grievance fast complaint company not responding refund pending You can raise a consumer complaint quickly with the National Consumer Helpline: call the toll-free number 1915 (8 AM to 8 PM), send a WhatsApp message to +91 88000 01915, or use the NCH app, the UMANG app or the website.",
+    "source": "National Consumer Helpline",
+    "url": "https://consumerhelpline.gov.in/",
+    "version": "checked 13 Oct 2026",
+    "law": [],
+    "verified": "secondary",
+    "verify_note": "From the official consumerhelpline.gov.in website, not an Act.",
+    "checked": "2026-10-13"
+  }
+]
