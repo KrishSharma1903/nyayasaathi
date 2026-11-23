@@ -1,0 +1,50 @@
+{
+  "CoW": {
+    "title": "Code on Wages, 2019",
+    "short": "Code on Wages",
+    "domain": "labour",
+    "file": "data/raw/acts/code_on_wages_2019.pdf",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "note": "Bill as introduced (Bill No. 184 of 2019). Sections 3, 5, 14 and 17 cross-checked against the enacted Act text (assent 8 Aug 2019) on 15 Oct 2026."
+  },
+  "OSH": {
+    "title": "Occupational Safety, Health and Working Conditions Code, 2020",
+    "short": "OSH Code",
+    "domain": "labour",
+    "file": "data/raw/acts/osh_code_2020.pdf",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Occupational%20Safety,%20Health%20And%20Working%20Conditions%20Code,%202020.pdf",
+    "note": "Act No. 37 of 2020 as enacted."
+  },
+  "CSS": {
+    "title": "Code on Social Security, 2020",
+    "short": "Social Security Code",
+    "domain": "labour",
+    "file": "data/raw/acts/code_on_social_security_2020.pdf",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Code%20On%20Social%20Security,%202020.pdf",
+    "note": "Act No. 36 of 2020 as enacted."
+  },
+  "CPA": {
+    "title": "Consumer Protection Act, 2019",
+    "short": "Consumer Protection Act",
+    "domain": "consumer",
+    "file": "data/raw/acts/consumer_protection_act_2019.pdf",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "note": "Act No. 35 of 2019 as enacted (Gazette copy)."
+  },
+  "DV": {
+    "title": "Protection of Women from Domestic Violence Act, 2005",
+    "short": "DV Act",
+    "domain": "domestic",
+    "file": "data/raw/acts/domestic_violence_act_2005.pdf",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "note": "Act No. 43 of 2005 as enacted."
+  },
+  "LSA": {
+    "title": "Legal Services Authorities Act, 1987",
+    "short": "Legal Services Authorities Act",
+    "domain": "legal_aid",
+    "file": "data/raw/acts/legal_services_authorities_act_1987.pdf",
+    "url": "https://aslsa.assam.gov.in/sites/default/files/swf_utility_folder/departments/aslsa_medhassu_in_oid_4/menu/document/The%20Legal%20Services%20Authorities%20Act,%201987.pdf",
+    "note": "Text as amended in 2002 (Assam SLSA copy). Income limits in s.12(h) have since been raised by rules."
+  }
+}
