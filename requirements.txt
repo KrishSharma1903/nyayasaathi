@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+streamlit
+sentence-transformers
+faiss-cpu
+pypdf
+beautifulsoup4
+python-dotenv
+google-genai

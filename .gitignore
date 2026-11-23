@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Local notes
+CONTEXT.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Generated
+index/
+eval/results/
+data/feedback.csv
+docs/*.docx
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
