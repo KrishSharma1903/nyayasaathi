@@ -1,0 +1,408 @@
+[
+  {
+    "id": "L1",
+    "domain": "labour",
+    "title": "Minimum wages apply to all workers",
+    "text": "minimum wage salary pay less than minimum informal unorganised daily wage worker labourer paid too little",
+    "answer": "Under the Code on Wages, 2019, the minimum wage notified by the government must be paid to employees. The Code applies to workers in both organised and unorganised sectors, so an employer cannot legally pay you less than the minimum wage for your work and area.",
+    "next": "Note your wage, hours and employer name. Contact the district labour office, or ask Tele-Law (14454) for free advice.",
+    "source": "Code on Wages, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "citations": [
+      {
+        "act": "CoW",
+        "section": "5"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against Code on Wages s.5.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L2",
+    "domain": "labour",
+    "title": "Wages must be paid on time",
+    "text": "employer not paid my salary wages delayed withheld two months unpaid wages not given owner refuses to pay salary contractor did not pay payment pending",
+    "answer": "Under the Code on Wages, 2019, monthly wages must be paid before the end of the 7th day of the next month. If your employer keeps delaying or withholding wages, that is a violation and you can claim the unpaid amount.",
+    "next": "Keep proof of work (messages, attendance, bank entries). Complain to the labour office of your district, or call Tele-Law (14454) for free guidance.",
+    "source": "Code on Wages, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "citations": [
+      {
+        "act": "CoW",
+        "section": "17(1)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against Code on Wages s.17(1)(iv).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L3",
+    "domain": "labour",
+    "title": "Working hours and overtime",
+    "text": "working hours overtime extra hours made to work 12 hours day duty long shift overtime pay double overtime 12 duty",
+    "answer": "Under the Occupational Safety, Health and Working Conditions Code, 2020, a worker cannot be made to work more than eight hours in a day or more than six days in a week. Overtime must be paid at twice the normal rate of wages (also in the Code on Wages, 2019).",
+    "next": "Write down your daily hours. If overtime is unpaid, raise it with your employer in writing and then with the labour office.",
+    "source": "OSH Code, 2020; Code on Wages, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Occupational%20Safety,%20Health%20And%20Working%20Conditions%20Code,%202020.pdf",
+    "citations": [
+      {
+        "act": "OSH",
+        "section": "25(1)"
+      },
+      {
+        "act": "OSH",
+        "section": "26(1)"
+      },
+      {
+        "act": "OSH",
+        "section": "27"
+      },
+      {
+        "act": "CoW",
+        "section": "14"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Corrected 15 Oct 2026: OSH Code s.25 limits work to 8 hours a day and s.26 to 6 days a week; the earlier '48 hours a week' was not in the Act text.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L4",
+    "domain": "labour",
+    "title": "Equal pay for equal work",
+    "text": "women paid less than men same work equal pay gender discrimination salary difference same same pay woman female lower pay gender",
+    "answer": "The Code on Wages, 2019 does not allow gender-based discrimination in wages. Women and men doing the same work should not be paid differently because of gender.",
+    "next": "Compare and note pay for the same work, then complain to the labour office.",
+    "source": "Code on Wages, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2019/Code%20on%20Wages,%202019.pdf",
+    "citations": [
+      {
+        "act": "CoW",
+        "section": "3(1)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against Code on Wages s.3(1).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "L5",
+    "domain": "labour",
+    "title": "Social security for unorganised and gig workers",
+    "text": "gig worker delivery driver platform worker provident fund insurance social security benefits informal worker pension",
+    "answer": "The Code on Social Security, 2020 asks the Central Government to make social security schemes for unorganised workers, and lets it make schemes for gig and platform workers, covering things like life and disability cover, accident insurance, health and maternity benefits and old age protection. Which scheme you get depends on what the government has notified.",
+    "next": "Ask your employer or platform which schemes apply to you, and check with the labour department for registration.",
+    "source": "Code on Social Security, 2020",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2020/Code%20On%20Social%20Security,%202020.pdf",
+    "citations": [
+      {
+        "act": "CSS",
+        "section": "109(1)"
+      },
+      {
+        "act": "CSS",
+        "section": "114(1)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Corrected 15 Oct 2026: the Code lets the government make schemes (s.109, s.114); it does not itself give benefits.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "T1",
+    "domain": "tenancy",
+    "title": "Eviction needs proper process",
+    "text": "landlord evict me throw out of house without notice asked to vacate immediately eviction tenant lock",
+    "answer": "A landlord cannot simply throw a tenant out. Under the Model Tenancy Act, 2021, eviction goes through a Rent Authority (appeal to the Rent Court), for reasons such as not paying rent for two months in a row or misusing the property after a written notice. The Model Act applies only where your State has adopted it; otherwise your State's rent law applies.",
+    "next": "Ask for the notice in writing, keep your rent receipts, and do not sign anything you do not understand. Contact your District Legal Services Authority (15100) for free advice.",
+    "source": "Model Tenancy Act, 2021 (model law); State rent laws",
+    "version": "checked 13 Oct 2026",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "citations": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T2",
+    "domain": "tenancy",
+    "title": "Security deposit",
+    "text": "landlord not returning security deposit refund deposit deducted advance money rent deposit cut",
+    "answer": "Under the Model Tenancy Act, 2021, a security deposit is capped at two months' rent for a home (six months for non-residential premises). A landlord should return it when you vacate after deducting only genuine dues. This applies where your State has adopted the Act; otherwise your State's rent law applies.",
+    "next": "Take photos when you leave, ask for a written account of deductions, and send a written demand. If still refused, seek legal aid (15100).",
+    "source": "Model Tenancy Act, 2021 (model law)",
+    "version": "checked 13 Oct 2026",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "citations": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T3",
+    "domain": "tenancy",
+    "title": "Rent increase",
+    "text": "landlord increasing rent suddenly rent hike raise rent without notice rent increase tenant rent",
+    "answer": "Rent can be revised only as agreed in your rent agreement or as allowed by your State's rent law. Under the Model Tenancy Act, 2021, disputes about revising rent go to the Rent Authority, so a landlord cannot simply raise it at will.",
+    "next": "Check your rent agreement for the increase clause and ask for the increase in writing.",
+    "source": "Model Tenancy Act, 2021 (model law); State rent laws",
+    "version": "checked 13 Oct 2026",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "citations": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T4",
+    "domain": "tenancy",
+    "title": "Water and electricity cut-off",
+    "text": "landlord cut electricity water supply stopped power cut off to force me to leave lock the room light",
+    "answer": "Under the Model Tenancy Act, 2021, a landlord cannot withhold essential services such as water and electricity. Cutting them off to force you out is not allowed.",
+    "next": "Record the date and take a photo or message as proof, complain to the local rent authority or police if needed, and seek legal aid (15100).",
+    "source": "Model Tenancy Act, 2021 (model law)",
+    "version": "checked 13 Oct 2026",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "citations": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "T5",
+    "domain": "tenancy",
+    "title": "Written rent agreement",
+    "text": "no rent agreement verbal agreement tenancy agreement written proof receipts rent receipt tenant rights agreement rent paper",
+    "answer": "The Model Tenancy Act, 2021 requires a written agreement signed by both sides, stating the rent, the tenancy period and other terms. Even without one, rent receipts or bank transfers can help prove that you are a tenant.",
+    "next": "Ask for a written agreement and always take rent receipts or pay by bank transfer.",
+    "source": "Model Tenancy Act, 2021 (model law)",
+    "version": "checked 13 Oct 2026",
+    "url": "https://www.jsalaw.com/wp-content/uploads/2021/07/JSA-Update-Real-Estate-Model-Tenancy-Act-July-27-2021-external-circulation.pdf",
+    "citations": [],
+    "verified": "secondary",
+    "verify_note": "Model Tenancy Act official text not available; checked against a law-firm summary only.",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "C1",
+    "domain": "consumer",
+    "title": "Defective product refund or replacement",
+    "text": "bought defective product broken item shop refuses refund replacement faulty goods sold bad quality seller cheated broken damaged online order refund replacement",
+    "answer": "Under the Consumer Protection Act, 2019 you have the right to complain about defective goods and can seek a repair, replacement, refund and compensation.",
+    "next": "Keep the bill and photos. Send a written complaint to the seller, then call the National Consumer Helpline (1915) or file with the District Consumer Commission.",
+    "source": "Consumer Protection Act, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "citations": [
+      {
+        "act": "CPA",
+        "section": "2(6)"
+      },
+      {
+        "act": "CPA",
+        "section": "2(10)"
+      },
+      {
+        "act": "CPA",
+        "section": "39(1)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against CPA s.2(6)(ii), 2(10), 39(1)(a)-(d).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C2",
+    "domain": "consumer",
+    "title": "Poor service",
+    "text": "poor service deficiency in service hospital bank phone company internet not working paid but service not given service",
+    "answer": "The Consumer Protection Act, 2019 covers deficient service as well as defective goods. If you paid for a service that was not delivered properly, you can complain.",
+    "next": "Keep proof of payment and your complaints. Use the National Consumer Helpline (1915) or file a complaint with the District Consumer Commission.",
+    "source": "Consumer Protection Act, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "citations": [
+      {
+        "act": "CPA",
+        "section": "2(11)"
+      },
+      {
+        "act": "CPA",
+        "section": "2(6)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against CPA s.2(11), 2(6)(iii).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C3",
+    "domain": "consumer",
+    "title": "Where and how to file a consumer complaint",
+    "text": "where to file consumer complaint court fee how to complain consumer forum commission online complaint cost lawyer needed",
+    "answer": "Under the Consumer Protection Act, 2019 you can file a complaint with the District Consumer Commission, and it can be filed electronically. You must usually file within two years from the date the problem arose. Smaller claims go to the District Commission; under the 2021 Rules it hears claims up to Rs 50 lakh, the State Commission Rs 50 lakh to Rs 2 crore, and the National Commission above Rs 2 crore. Online filing is through the e-Daakhil portal.",
+    "next": "Gather bills and messages, send a written complaint to the seller first, then file online or call 1915.",
+    "source": "Consumer Protection Act, 2019; Consumer Protection Rules, 2021",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://www.drishtiias.com/printpdf/consumer-protection-rules-2021",
+    "citations": [
+      {
+        "act": "CPA",
+        "section": "35(1)"
+      },
+      {
+        "act": "CPA",
+        "section": "34(1)"
+      },
+      {
+        "act": "CPA",
+        "section": "69(1)"
+      }
+    ],
+    "verified": "partial",
+    "verify_note": "Corrected 15 Oct 2026. Filing (s.35) and two-year limit (s.69) checked in the Act. The Rs 50 lakh limit is from the 2021 Rules (not in the Act, which says Rs 1 crore unless rules change it) and e-Daakhil is not in the Act; verify both against the Rules.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C4",
+    "domain": "consumer",
+    "title": "Misleading advertisement and overcharging",
+    "text": "overcharged above MRP price misleading advertisement fake offer false claim shopkeeper charging more",
+    "answer": "Charging more than the printed maximum retail price (MRP) or using a misleading advertisement is treated as an unfair trade practice, and you can complain.",
+    "next": "Keep the bill and photo of the printed price. Report to the National Consumer Helpline (1915).",
+    "source": "Consumer Protection Act, 2019",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/bills_parliament/2021/Consumer%20Protection%20Act%202019.pdf",
+    "citations": [
+      {
+        "act": "CPA",
+        "section": "2(6)"
+      },
+      {
+        "act": "CPA",
+        "section": "2(28)"
+      },
+      {
+        "act": "CPA",
+        "section": "2(47)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against CPA s.2(6)(iv) (price above the displayed price), 2(28), 2(47).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "D1",
+    "domain": "domestic",
+    "title": "Protection from domestic violence",
+    "text": "husband beats me domestic violence abuse at home in laws harassment hit threatened afraid at home violence",
+    "answer": "The Protection of Women from Domestic Violence Act, 2005 protects women from domestic violence. The woman, a Protection Officer or anyone on her behalf can apply to the Magistrate (Section 12), and the Magistrate can pass protection orders (Section 18).",
+    "next": "If you are in danger, call 112 or the women helpline 181. You can also approach a Protection Officer or the magistrate, and get free legal aid (15100).",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "citations": [
+      {
+        "act": "DV",
+        "section": "12(1)"
+      },
+      {
+        "act": "DV",
+        "section": "18"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against DV Act s.12(1), 18.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "D2",
+    "domain": "domestic",
+    "title": "Right to stay in the shared home",
+    "text": "thrown out of house by husband in laws right to stay residence shared household married woman home asked to leave",
+    "answer": "Under Section 17 of the Domestic Violence Act, 2005, every woman in a domestic relationship has the right to reside in the shared household, even if she does not own it. The Magistrate can also pass a residence order (Section 19).",
+    "next": "Contact the women helpline 181 or a Protection Officer, and seek a residence order through the magistrate with free legal aid (15100).",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "citations": [
+      {
+        "act": "DV",
+        "section": "17(1)"
+      },
+      {
+        "act": "DV",
+        "section": "19(1)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against DV Act s.17(1), 19(1).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "D3",
+    "domain": "domestic",
+    "title": "Financial support",
+    "text": "husband not giving money maintenance expenses financial support economic abuse no money for children food maintenance",
+    "answer": "Under Section 20 of the Domestic Violence Act, 2005, the Magistrate can direct the abuser to pay monetary relief to cover the expenses and losses suffered by the woman.",
+    "next": "Keep a record of expenses. Approach a Protection Officer or seek free legal aid (15100) to apply for monetary relief.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://prsindia.org/files/bills_acts/acts_parliament/2005/the-protection-of-women-from-domestic-violence-act-2005.pdf",
+    "citations": [
+      {
+        "act": "DV",
+        "section": "20(1)"
+      }
+    ],
+    "verified": "act_text",
+    "verify_note": "Checked against DV Act s.20(1).",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "G1",
+    "domain": "legal_aid",
+    "title": "Free legal advice and legal aid",
+    "text": "free lawyer cannot afford lawyer free legal advice legal aid where to get help who can help me poor free legal help free lawyer ke",
+    "answer": "Tele-Law gives free pre-litigation legal advice to all citizens through a Common Service Centre, the Tele-Law app, or the helpline 14454. Each case gets about a 20-minute appointment with a panel lawyer and up to 3 consultations. Court costs are not automatically free. For a free lawyer, people in the categories listed under Section 12 of the Legal Services Authorities Act (for example women, children, SC/ST and low-income people) can contact the Legal Services Authority (NALSA helpline 15100) and must show proof of their category.",
+    "next": "Call 14454 or visit your nearest Common Service Centre for advice, or call 15100 for a free lawyer.",
+    "source": "Tele-Law FAQ; NALSA; Legal Services Authorities Act, 1987",
+    "version": "checked against Act text 15 Oct 2026",
+    "url": "https://www.tele-law.in/faq.html",
+    "citations": [
+      {
+        "act": "LSA",
+        "section": "12"
+      },
+      {
+        "act": "LSA",
+        "section": "13"
+      }
+    ],
+    "verified": "partial",
+    "verify_note": "Section 12 categories checked in the Act. Tele-Law details come from the tele-law.in FAQ, not an Act.",
+    "checked": "2026-10-15"
+  },
+  {
+    "id": "C5",
+    "domain": "consumer",
+    "title": "National Consumer Helpline",
+    "text": "consumer helpline number call complain quickly whatsapp toll free grievance fast complaint company not responding refund pending",
+    "answer": "You can raise a consumer complaint quickly with the National Consumer Helpline: call the toll-free number 1915 (8 AM to 8 PM), send a WhatsApp message to +91 88000 01915, or use the NCH app, the UMANG app or the website.",
+    "next": "Keep your bill, order number and messages ready before you call.",
+    "source": "National Consumer Helpline",
+    "url": "https://consumerhelpline.gov.in/",
+    "version": "checked 13 Oct 2026",
+    "citations": [],
+    "verified": "secondary",
+    "verify_note": "From the official consumerhelpline.gov.in website, not an Act.",
+    "checked": "2026-10-13"
+  }
+]
