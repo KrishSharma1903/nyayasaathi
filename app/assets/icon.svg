@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="NyayaSaathi">
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="#1F4E8C"/>
+  <g fill="none" stroke="#FBFAF7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 11v25M16 36h16M13 16h22"/>
+    <path d="M13 16l-5 10h10zM35 16l-5 10h10z"/>
+  </g>
+  <circle cx="24" cy="11" r="2.2" fill="#E5A05B"/>
+</svg>

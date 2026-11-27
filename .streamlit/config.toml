@@ -1,0 +1,54 @@
+[server]
+fileWatcherType = "none"
+port = 8505
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+headingFont = "Georgia, 'Times New Roman', serif"
+baseFontSize = 15
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+baseRadius = "large"
+buttonRadius = "full"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+
+[theme.light]
+headingFont = "Georgia, 'Times New Roman', serif"
+primaryColor = "#1F4E8C"
+backgroundColor = "#FBFAF7"
+secondaryBackgroundColor = "#F1EEE6"
+textColor = "#1C2230"
+borderColor = "#E3DED2"
+linkColor = "#1F4E8C"
+blueColor = "#1F4E8C"
+greenColor = "#2E7D4F"
+orangeColor = "#B5651D"
+redColor = "#B42318"
+grayColor = "#6B6F7A"
+
+[theme.light.sidebar]
+backgroundColor = "#F3F0E8"
+secondaryBackgroundColor = "#E9E4D8"
+borderColor = "#E3DED2"
+
+[theme.dark]
+headingFont = "Georgia, 'Times New Roman', serif"
+primaryColor = "#8FB2EE"
+backgroundColor = "#11151F"
+secondaryBackgroundColor = "#1A2030"
+textColor = "#E7EAF1"
+borderColor = "#2A3246"
+linkColor = "#8FB2EE"
+blueColor = "#8FB2EE"
+greenColor = "#6CC79A"
+orangeColor = "#E5A05B"
+redColor = "#F07A6E"
+grayColor = "#9AA1B2"
+
+[theme.dark.sidebar]
+backgroundColor = "#0C1018"
+secondaryBackgroundColor = "#161C2A"
+borderColor = "#2A3246"
