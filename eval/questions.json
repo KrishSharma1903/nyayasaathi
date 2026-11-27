@@ -1,0 +1,407 @@
+{
+  "dev": [
+    {
+      "q": "My boss hasn't given me salary for 3 months, what should I do?",
+      "id": "L2"
+    },
+    {
+      "q": "Shop owner pays me 200 rupees a day, is that allowed?",
+      "id": "L1"
+    },
+    {
+      "q": "I work 14 hours daily and get nothing extra",
+      "id": "L3"
+    },
+    {
+      "q": "Our landlord told us to leave the house tomorrow",
+      "id": "T1"
+    },
+    {
+      "q": "Owner is not giving back my advance money after I left the flat",
+      "id": "T2"
+    },
+    {
+      "q": "The mobile I bought stopped working in a week and shopkeeper won't take it back",
+      "id": "C1"
+    },
+    {
+      "q": "How do I file a complaint in consumer court",
+      "id": "C3"
+    },
+    {
+      "q": "My husband hits me, what can I do",
+      "id": "D1"
+    },
+    {
+      "q": "In-laws are telling me to get out of their house",
+      "id": "D2"
+    },
+    {
+      "q": "I can't afford a lawyer, who can help me for free",
+      "id": "G1"
+    },
+    {
+      "q": "Rent was increased by 5000 suddenly",
+      "id": "T3"
+    },
+    {
+      "q": "Zomato delivery partner PF and insurance benefits",
+      "id": "L5"
+    },
+    {
+      "q": "How to cook paneer butter masala",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Someone stole my phone, how to file FIR",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Who will win the cricket match today",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Dispute over ancestral land with my uncle",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "I want a divorce and child custody",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "How to get a passport made",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "how to link pan card with aadhaar",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "weather in delhi tomorrow",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "how to learn english speaking fast",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "which bank gives cheapest home loan",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "tell me a joke",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "how to lose weight in one month",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Factory owner pays women less than men for packing work",
+      "id": "L4",
+      "draft": true
+    },
+    {
+      "q": "Do I get double pay for working on Sunday overtime",
+      "id": "L3",
+      "draft": true
+    },
+    {
+      "q": "Landlord increased rent without notice in the middle of the agreement",
+      "id": "T3",
+      "draft": true
+    },
+    {
+      "q": "Owner cut the water supply because I complained",
+      "id": "T4",
+      "draft": true
+    },
+    {
+      "q": "Do I need a rent agreement on paper",
+      "id": "T5",
+      "draft": true
+    },
+    {
+      "q": "Cable TV company not giving service even after payment",
+      "id": "C2",
+      "draft": true
+    },
+    {
+      "q": "Advertisement said free gift but shop did not give it",
+      "id": "C4",
+      "draft": true
+    },
+    {
+      "q": "Husband does not give money for household expenses",
+      "id": "D3",
+      "draft": true
+    },
+    {
+      "q": "What is the consumer helpline number",
+      "id": "C5",
+      "draft": true
+    },
+    {
+      "q": "How to apply for a passport",
+      "id": null,
+      "draft": true,
+      "oos": true
+    },
+    {
+      "q": "My UPI got hacked and money is gone",
+      "id": null,
+      "draft": true,
+      "oos": true
+    },
+    {
+      "q": "Best mutual fund to invest in",
+      "id": null,
+      "draft": true,
+      "oos": true
+    }
+  ],
+  "test": [
+    {
+      "q": "Contractor did not pay me for the work I did last month",
+      "id": "L2"
+    },
+    {
+      "q": "Is there a fixed minimum salary for construction labourers?",
+      "id": "L1"
+    },
+    {
+      "q": "Factory makes us stay for extra hours, do they have to pay double?",
+      "id": "L3"
+    },
+    {
+      "q": "A woman colleague gets lower pay than me for the same job",
+      "id": "L4"
+    },
+    {
+      "q": "I drive for Uber, do I get any social security?",
+      "id": "L5"
+    },
+    {
+      "q": "Landlord says he will lock the room if I don't leave in two days",
+      "id": "T1"
+    },
+    {
+      "q": "Landlord kept my deposit money saying wall is damaged",
+      "id": "T2"
+    },
+    {
+      "q": "Owner wants to hike the rent every month",
+      "id": "T3"
+    },
+    {
+      "q": "Landlord switched off electricity to pressure us",
+      "id": "T4"
+    },
+    {
+      "q": "I have no written agreement with my landlord, can I prove I live here?",
+      "id": "T5"
+    },
+    {
+      "q": "Online seller sent me a broken laptop and won't give money back",
+      "id": "C1"
+    },
+    {
+      "q": "I paid the internet company but connection never worked",
+      "id": "C2"
+    },
+    {
+      "q": "What are the steps and cost to complain in consumer forum",
+      "id": "C3"
+    },
+    {
+      "q": "Shopkeeper charged more than the price printed on the packet",
+      "id": "C4"
+    },
+    {
+      "q": "My husband beats me and abuses me daily",
+      "id": "D1"
+    },
+    {
+      "q": "Can my in-laws throw me out of the house I live in?",
+      "id": "D2"
+    },
+    {
+      "q": "My husband gives no money for kids' food and expenses",
+      "id": "D3"
+    },
+    {
+      "q": "Where can poor people get a free lawyer?",
+      "id": "G1"
+    },
+    {
+      "q": "Employer is delaying wages again and again",
+      "id": "L2"
+    },
+    {
+      "q": "Rent hike without telling us",
+      "id": "T3"
+    },
+    {
+      "q": "Mobile shop sold a faulty phone, what are my rights",
+      "id": "C1"
+    },
+    {
+      "q": "Who to call for domestic violence help",
+      "id": "D1"
+    },
+    {
+      "q": "Paid less than government minimum wage as a domestic worker",
+      "id": "L1"
+    },
+    {
+      "q": "Free legal advice by phone",
+      "id": "G1"
+    },
+    {
+      "q": "My company fired me without any reason",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "How do I apply for a driving licence",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Police arrested my brother, what to do",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "How to get my name on property papers after father's death",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Best phone under 15000",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "What is the capital of France",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "My neighbour built a wall on my land",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "How to register a company",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "I want to file income tax return",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Cyber fraud happened, money cut from my account",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Write a poem about rain",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "How to cancel my train ticket",
+      "id": null,
+      "oos": true
+    },
+    {
+      "q": "Contractor pays less than minimum wage at the brick kiln",
+      "id": "L1",
+      "draft": true
+    },
+    {
+      "q": "Company has not paid last two months salary",
+      "id": "L2",
+      "draft": true
+    },
+    {
+      "q": "Delivery app worker pension and health cover",
+      "id": "L5",
+      "draft": true
+    },
+    {
+      "q": "Landlord threw my things out and changed the lock",
+      "id": "T1",
+      "draft": true
+    },
+    {
+      "q": "Landlord is asking for six months deposit for a flat",
+      "id": "T2",
+      "draft": true
+    },
+    {
+      "q": "Landlord disconnected electricity because rent is late",
+      "id": "T4",
+      "draft": true
+    },
+    {
+      "q": "Washing machine is defective, company won't replace it",
+      "id": "C1",
+      "draft": true
+    },
+    {
+      "q": "How much fee to file a case in district consumer commission",
+      "id": "C3",
+      "draft": true
+    },
+    {
+      "q": "My husband beats me and police will not file my complaint",
+      "id": "D1",
+      "draft": true
+    },
+    {
+      "q": "Landlord threatens to call police to evict me",
+      "id": "T1",
+      "draft": true
+    },
+    {
+      "q": "How do I get a ration card",
+      "id": null,
+      "draft": true,
+      "oos": true
+    },
+    {
+      "q": "Someone sent me a phishing link and took my money",
+      "id": null,
+      "draft": true,
+      "oos": true
+    },
+    {
+      "q": "Neighbour's dog keeps barking at night",
+      "id": null,
+      "draft": true,
+      "oos": true
+    },
+    {
+      "q": "How to start a YouTube channel",
+      "id": null,
+      "draft": true,
+      "oos": true
+    }
+  ]
+}
